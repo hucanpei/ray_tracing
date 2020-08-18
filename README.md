@@ -12,4 +12,4 @@ $ main
 ```
 
 ## 最终效果
-![demo](demo.ppm)
+![demo](demo.png)
