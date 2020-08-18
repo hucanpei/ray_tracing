@@ -4,7 +4,7 @@
 ## 使用
 - 编译：
 ```
-$ g++ ./main.cc -ltbb
+$ g++ ./main.cc -o main -ltbb
 ```
 - 运行
 ```
